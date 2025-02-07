@@ -1,3 +1,2 @@
--- CREATE DATABASE College;
 CREATE DATABASE IF NOT EXISTS College;
 Show Databases;

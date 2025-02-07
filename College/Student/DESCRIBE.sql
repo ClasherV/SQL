@@ -1,0 +1,2 @@
+USE College;
+DESC Student;

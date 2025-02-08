@@ -1,2 +1,0 @@
-USE College;
-TRUNCATE Student;

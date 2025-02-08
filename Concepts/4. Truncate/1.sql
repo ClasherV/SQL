@@ -5,3 +5,4 @@ INSERT INTO Student VALUES("Vaibhav Raikwar",48);
 SELECT * FROM Student;
 TRUNCATE Student;
 SELECT * FROM Student;
+DROP DATABASE College;
